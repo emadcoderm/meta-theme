@@ -1,0 +1,246 @@
+{
+	"product_attributes": {
+		"color": {
+			"name": "Color",
+			"slug": "color",
+			"swatches": true,
+			"has_archives": false
+		},
+		"brand": {
+			"name": "Brand",
+			"slug": "brand",
+			"swatches": false,
+			"has_archives": true
+		}
+	},
+	"images_sizes": {
+		"thumbnail_size_w": "400",
+		"thumbnail_size_h": "400",
+		"medium_size_w": "600",
+		"medium_size_h": "600",
+		"large_size_w": "2000",
+		"large_size_h": "2000",
+		"woocommerce_single_image_width": "1000",
+		"woocommerce_thumbnail_image_width": "450",
+		"woocommerce_thumbnail_cropping": "uncropped"
+	},
+	"links": {
+		"uploads": [
+			"https://space.xtemos.com/dummy/antares/wp-content/uploads/sites/12/",
+			"https://space.xtemos.com/demo/antares/wp-content/uploads/sites/21/",
+			"http://space.xtemos.com/dummy/antares/wp-content/uploads/sites/12/",
+			"http://space.xtemos.com/demo/antares/wp-content/uploads/sites/21/"
+		],
+		"simple": [
+			"https://space.xtemos.com/dummy/antares/",
+			"https://space.xtemos.com/dummy/antares",
+			"https://space.xtemos.com/demo/antares/",
+			"https://space.xtemos.com/demo/antares",
+			"http://space.xtemos.com/dummy/antares/",
+			"http://space.xtemos.com/dummy/antares",
+			"http://space.xtemos.com/demo/antares/",
+			"http://space.xtemos.com/demo/antares"
+		]
+	},
+	"menu_items": {
+		"shop_main": {
+			"title": "Shop",
+			"position": 2,
+			"menu": "main-menu",
+			"meta": {
+				"_menu_item_design": "full",
+				"_menu_item_block": "1850"
+			}
+		},
+		"shop_mobile": {
+			"title": "Shop",
+			"position": 2,
+			"menu": "mobile-menu"
+		}
+	},
+	"pages_meta": {
+		"shop": {
+			"title": "Shop",
+			"meta": {
+				"_xts_offcanvas_sidebar_mobile": "1"
+			}
+		},
+		"cart": {
+			"title": "Cart",
+			"meta": {
+				"_xts_sidebar_position": "disabled",
+				"_xts_offcanvas_sidebar_mobile": "1"
+			}
+		},
+		"checkout": {
+			"title": "Checkout",
+			"meta": {
+				"_xts_sidebar_position": "disabled",
+				"_xts_offcanvas_sidebar_mobile": "1"
+			}
+		},
+		"my-account": {
+			"title": "My account",
+			"meta": {
+				"_xts_sidebar_position": "disabled",
+				"_xts_offcanvas_sidebar_mobile": "1"
+			}
+		}
+	},
+	"widgets": {
+		"main-widget-sidebar": {
+			"categories-1": {
+				"title": "",
+				"count": 0,
+				"hierarchical": 0,
+				"dropdown": 0
+			},
+			"search-1": {
+				"title": ""
+			},
+			"xts-widget-recent-posts-1": {
+				"title": "Recent posts",
+				"order": "DESC",
+				"orderby": "date",
+				"category": "all",
+				"limit": "4",
+				"offset": "",
+				"thumb": "1",
+				"thumb_height": "45",
+				"thumb_width": "45",
+				"comment_count": "1",
+				"date": "1"
+			},
+			"recent-comments-1": {
+				"title": "Recent comments",
+				"number": 5
+			}
+		},
+		"shop-widget-sidebar": {
+			"woocommerce_product_categories-1": {
+				"title": "",
+				"orderby": "name",
+				"dropdown": 0,
+				"count": 0,
+				"hierarchical": 1,
+				"show_children_only": 0,
+				"hide_empty": 1,
+				"max_depth": ""
+			}
+		},
+		"single-product-widget-sidebar": {
+			"woocommerce_top_rated_products-1": {
+				"title": "Top rated products",
+				"number": 4
+			},
+			"woocommerce_product_categories-2": {
+				"title": "Product categories",
+				"orderby": "name",
+				"dropdown": 0,
+				"count": 0,
+				"hierarchical": 1,
+				"show_children_only": 0,
+				"hide_empty": 0,
+				"max_depth": ""
+			},
+			"xts-widget-instagram-1": {
+				"title": "Instagram",
+				"source": "custom_images",
+				"custom_images_size": "thumbnail",
+				"custom_images": "1199,1198,1197,1195,1196,1194,1192,1200,1202",
+				"custom_images_link": "#",
+				"api_title": "",
+				"api_images_per_page": "9",
+				"other_title": "",
+				"link_is_external": 0,
+				"link_nofollow": 0
+			}
+		},
+		"filters-area-widget-sidebar": {
+			"woocommerce_product_categories-3": {
+				"title": "Product categories",
+				"orderby": "name",
+				"dropdown": 0,
+				"count": 0,
+				"hierarchical": 1,
+				"show_children_only": 0,
+				"hide_empty": 0,
+				"max_depth": ""
+			},
+			"xts-widget-sort-by-1": {
+				"title": "Sort by",
+				"style": "list"
+			},
+			"xts-widget-filter-1": {
+				"title": "Filter by Brand",
+				"attribute": "brand",
+				"category": [
+					"all"
+				],
+				"query_type": "and",
+				"style": "list",
+				"swatches_size": "m",
+				"labels": "1",
+				"tooltips": "1",
+				"show_count": "1",
+				"close_if_not_selected": 0
+			},
+			"xts-widget-filter-2": {
+				"title": "Filter by Color",
+				"attribute": "color",
+				"category": [
+					"all"
+				],
+				"query_type": "and",
+				"style": "list",
+				"swatches_size": "m",
+				"labels": "1",
+				"tooltips": "1",
+				"show_count": "1",
+				"close_if_not_selected": 0
+			}
+		},
+		"shop-tools-widget-sidebar": {
+			"xts-widget-sort-by-2": {
+				"title": "Sort by",
+				"style": "list"
+			},
+			"xts-widget-stock-status-1": {
+				"title": "Stock status",
+				"instock": "1",
+				"onsale": "1"
+			},
+			"woocommerce_price_filter-1": {
+				"title": "Filter by price"
+			},
+			"xts-widget-filter-3": {
+				"title": "Filter by color",
+				"attribute": "color",
+				"category": [
+					"all"
+				],
+				"query_type": "and",
+				"style": "list",
+				"swatches_size": "m",
+				"labels": "1",
+				"tooltips": "1",
+				"show_count": "1",
+				"close_if_not_selected": 0
+			},
+			"xts-widget-filter-4": {
+				"title": "Filter by brand",
+				"attribute": "brand",
+				"category": [
+					"all"
+				],
+				"query_type": "and",
+				"style": "list",
+				"swatches_size": "m",
+				"labels": "1",
+				"tooltips": "1",
+				"show_count": "1",
+				"close_if_not_selected": 0
+			}
+		}
+	}
+}
