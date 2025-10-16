@@ -1,0 +1,1337 @@
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 100;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Thin.woff') format('woff');	
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 200;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-UltraLight.woff') format('woff');	
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Light.woff') format('woff');		 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Medium.woff') format('woff');		 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 600;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-DemiBold.woff') format('woff'); 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-ExtraBold.woff') format('woff');		 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Black.woff') format('woff');		 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Bold.woff') format('woff'); 
+}
+@font-face {
+	font-family: IRANSansx;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/iransansx/woff/IRANSansXFaNum-Regular.woff') format('woff');	
+}
+
+
+
+@font-face {
+	font-family: fontawesome_pro;
+	font-style: normal;
+	font-weight: 100;
+	src: url('framework/assets/webfonts/fa-thin-100.woff2') format('woff2');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: fontawesome_pro;
+	font-style: normal;
+	font-weight: 300;
+	src: url('framework/assets/webfonts/fa-light-300.woff2') format('woff2');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: fontawesome_pro;
+	font-style: normal;
+	font-weight: 400;
+	src: url('framework/assets/webfonts/fa-regular-400.woff2') format('woff2');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: fontawesome_pro;
+	font-style: normal;
+	font-weight: 400;
+	src: url('framework/assets/webfonts/fa-brands-400.woff2') format('woff2');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: fontawesome_pro;
+	font-style: normal;
+	font-weight: 900;
+	src: url('framework/assets/webfonts/fa-solid-900.woff2') format('woff2');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 999;
+    src: url('fonts/peyda/woff/PeydaWeb-ExtraBold.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 900;
+    src: url('fonts/peyda/woff/PeydaWeb-Black.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/peyda/woff/PeydaWeb-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 500;
+    src: url('fonts/peyda/woff/PeydaWeb-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 400;   
+    src: url('fonts/peyda/woff/PeydaWeb-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/peyda/woff/PeydaWeb-Light.woff') format('woff');
+}
+@font-face {
+    font-family: peyda;
+    font-style: normal;
+    font-weight: 200;
+    src: url('fonts/peyda/woff/PeydaWeb-Extralight.woff') format('woff');
+}
+
+
+
+@font-face {
+    font-family: Anjoman;
+    font-style: normal;
+    font-weight: 900;   
+    src: url('fonts/anjoman/woff/Anjoman-FaNum-Black.woff') format('woff');
+}
+@font-face {
+    font-family: Anjoman;
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/anjoman/woff/Anjoman-FaNum-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: Anjoman;
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/anjoman/woff/Anjoman-FaNum-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: pelak;
+    font-style: normal;
+    font-weight: 300;   
+    src: url('fonts/pelak/PelakFA-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: pelak;
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/pelak/PelakFA-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: pelak;
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/pelak/PelakFA-Bold.woff2') format('woff2');
+}
+
+
+
+.fal, .fas, .far, .fat, .fa {
+    font-family: fontawesome_pro !important;
+}
+.fal, .fa {
+	font-weight: 300;
+}
+.fas {
+	font-weight: 900;
+}
+
+/*
+Yekan Bakh Font
+*/
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 100;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-thin.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-Light.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-Light.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-Regular.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-Regular.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 600;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-SemiBold.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-SemiBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-Bold.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-Bold.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-ExtraBold.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-Black.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-Black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 950;
+	src: url('fonts/bakh/woff/YekanBakhFaNum-ExtraBlack.woff') format('woff'),   
+	url('fonts/bakh/woff2/YekanBakhFaNum-ExtraBlack.woff2') format('woff2');		 
+}
+
+.mc4wp-form>div {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 17px;
+    margin-left: 17px;
+}
+.mc4wp-form>div {
+    justify-content: flex-start;
+}
+.mc4wp-form>div>p:first-child {
+    flex: 1 1 200px;
+    max-width: 290px;
+    width: 100%;
+	margin-bottom: 0;
+}
+.mc4wp-form-fields p {
+	margin-bottom:0;
+}
+.mc4wp-form>div>p:first-child {
+    max-width: 560px;
+}
+.submit-mc4 {
+	border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    margin-right: -7px;
+}
+span.widget-title.title, .title.xts-design-simple {
+	position: relative;
+	padding-right: 30px;
+}
+
+.xts-sidebar .widget:last-child {
+    padding-bottom: 25px;
+}
+.xts-infobox.xts-icon-side.xts-textalign-right .xts-box-icon-wrapper {
+    margin-left: 10px;
+}
+span.xts-section-title-text {
+	position: relative;
+}
+.title.xts-design-simple span.xts-section-title-text::before {
+    right: -26px;
+}
+.title.xts-design-simple span.xts-section-title-text::after {
+    right: -31px;
+}
+.xts-sidebar .widget {
+    border: none !important;
+    padding: 0;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 5px 8px -3px rgba(0, 0, 0, .1);
+	background: #fff;
+    padding: 24px;
+}
+.xts-title-limit-two .woocommerce-loop-product__title {
+    max-height: 44px;
+    min-height: 44px;
+    text-align: right;
+    font-size: 14px;
+}
+.xts-product-actions>div {
+    opacity: 1;
+    transition: inherit;
+    transform: scale(1);
+}
+.flex_ations .xts-product-actions {
+    position: initial;
+}
+.xts-product.product {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 8px -3px rgba(166, 196, 198, .35);
+}
+.xts-product .price {
+    text-align: left;
+}
+.flex_ations {
+	display: flex;
+    justify-content: space-between;
+}
+
+.xts-checkout-steps li:after, .xts-slider .flickity-button.previous:before {
+    content: "\e905";
+}
+.xts-action-btn[class*=xts-style-icon]>a {
+    min-width: 35px;
+    height: 35px;
+    font-size: 0;
+}
+
+.flex_ations .xts-add-cart-btn>a {
+    padding: 0;
+    min-height: 0;
+    letter-spacing: unset;
+    border-radius: 100%;
+    font-weight: 400;
+}
+.flex_ations .xts-add-cart-btn>a:hover {
+    color: #fff;
+}
+
+.xts-prod-design-icons .xts-add-cart-btn>a:hover {
+    background-color: var(--iwp-primary-color);
+}
+
+.flex_ations .xts-wishlist-btn[class*=xts-style-icon]>a {
+	border-radius: 100%;
+	background: #fceded !important;
+	color: #dc3545;
+}
+.flex_ations .xts-wishlist-btn[class*=xts-style-icon]>a:hover {
+	border-radius: 100%;
+	background: #dc3545 !important;
+	color: #fff;
+    box-shadow: 0 5px 10px rgb(224 92 92 / 30%);
+}
+
+.flex_ations .xts-compare-btn[class*=xts-style-icon]>a {
+	border-radius: 100%;
+	background: #fff9ee !important;
+	color: #f8a503;
+}
+.flex_ations .xts-compare-btn[class*=xts-style-icon]>a:hover {
+	border-radius: 100%;
+	background: #f8a503 !important;
+	color: #fff;
+    box-shadow: 0 5px 10px rgb(241 192 97 / 30%);
+}
+.xts-header-cats {
+	z-index:11;
+}
+.xts-close-side {
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+}
+.xts-close-side.xts-blur-opened {
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0s;
+	z-index: 10;
+	background-color: rgb(0 0 0 / 30%);
+}
+.product_meta>span:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+span.widget-title.products-title {
+    padding-right: 30px;
+}
+
+.d-flex {
+	display: flex;
+}
+.justify-content-between {
+	justify-content: space-between;
+}
+a.archive-products {
+	font-size: 13px;
+	font-weight: 600;
+}
+a.archive-products:after {
+    content: "\e922";
+	font-family: font-icon;
+	font-size: 8px;
+	margin-right: 7px;
+}
+.xts-post-title {
+    font-size: 17px;
+    min-height: 44px;
+    margin-bottom: 10px;
+    max-height: 44px;
+    overflow: hidden;
+}
+.xts-post-content {
+    font-size: 13px;
+}
+.xts-prod-design-small .xts-product-thumb, .xts-prod-design-small-bg .xts-product-thumb {
+    margin-left: 10px;
+    max-width: 39%;
+}
+.xts-post-design-default .xts-post {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 8px -3px rgb(166 196 198 / 35%);
+}
+.xts-prod-design-small-bg .xts-product .price {
+    text-align: right;
+}
+
+
+.sit-preview-block{position:absolute;display:none;z-index:100000}.sit-preview-block img{margin:0;border:0;max-width:100%;height:auto;display:block}.sit-preview-shadow{box-shadow:0 0 4px rgba(48,48,48,.7)}.sit-preview-preloader{background:#000 url(images/preload.animation.gif) center center no-repeat;display:block}.sit-theme-simple{background:#999;padding:5px;border:1px solid #222}.sit-theme-envato{background:#333;color:#fff;padding:10px;border:1px solid #000;line-height:16px}.sit-theme-envato h3{margin:15px 0 10px;padding:0;color:#fff;font-size:18px;font-weight:500;word-wrap:break-word;white-space:normal}.sit-preview-image-wrapper{overflow:hidden;max-height:300px}.sit-envato-info{float:left}.sit-envato-price{float:right;font-size:32px;font-weight:500;line-height:42px}.sit-envato-price sup{vertical-align:-4px;font-size:24px}.sit-envato-author{color:#aaa;font-size:11px;margin-bottom:5px;display:block}.sit-envato-category{color:#eee;font-size:13px;display:block}
+.sit-envato-price sup {
+    display: none;
+}
+.sit-envato-info {
+    float: right;
+}
+.sit-envato-price {
+    float: left;
+    font-size: 30px;
+	position:relative;
+}
+.popup-currency {
+	font-size: 17px;
+    position: absolute;
+    top: -24px;
+    left: 0;
+}
+
+.product-grid-details {
+    position: relative;
+    display: flex;
+    padding: 20px 0;
+}
+.product-grid-details .detail-item {
+    cursor: context-menu;
+    text-align: center;
+    flex: 1;
+}
+.product-grid-details .detail-item.sale {
+    border-left: 1px dashed #d0d1d2;
+}
+.product-grid-details .detail-item .count {
+    display: block;
+    font-size: 30px;
+    font-weight: 600;
+    color: #676e79;
+    transition: .2s;
+    -webkit-transition: .2s;
+}
+.product-grid-details .detail-item .title {
+    display: block;
+    color: rgba(142,147,155,.8);
+    font-size: 19px;
+    font-weight: 400;
+	margin-bottom: 0;
+}
+.percentage_review {
+	font-size: 20px;
+}
+
+.cover-single img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 6%);
+}
+.xts-more-desc {
+    text-align: justify;
+    font-size: 13px;
+}
+
+
+ul.wcdlar_download_list {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+ul.wcdlar_download_list li {
+    border: 1px solid #e5e5e5;
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 5px;
+    border-right: 3px solid #cfcfcf;
+}
+ul.wcdlar_download_list.produc-page li {
+    border-right: 1px solid #e5e5e5;
+}
+ul.wcdlar_download_list.produc-page li .sub_items {
+    padding: 5px 10px;
+    text-align: center
+}
+
+ul.wcdlar_download_list li:after {
+    clear: both;
+    display: block;
+    content: ''
+}
+
+ul.wcdlar_download_list li span.arrow {
+    background: no-repeat center center url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxMjkgMTI5IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMjkgMTI5IiB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4Ij4KICA8Zz4KICAgIDxwYXRoIGQ9Im00MC40LDEyMS4zYy0wLjgsMC44LTEuOCwxLjItMi45LDEuMnMtMi4xLTAuNC0yLjktMS4yYy0xLjYtMS42LTEuNi00LjIgMC01LjhsNTEtNTEtNTEtNTFjLTEuNi0xLjYtMS42LTQuMiAwLTUuOCAxLjYtMS42IDQuMi0xLjYgNS44LDBsNTMuOSw1My45YzEuNiwxLjYgMS42LDQuMiAwLDUuOGwtNTMuOSw1My45eiIgZmlsbD0iIzAwMDAwMCIvPgogIDwvZz4KPC9zdmc+Cg==);
+    width: 32px;
+    height: 32px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    display: inline-block;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s
+}
+
+ul.wcdlar_download_list li.active span.arrow {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg)
+}
+
+ul.wcdlar_download_list li a.title {
+    color: #3b4446;
+    padding: 5px 10px;
+    text-decoration: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    display: block;
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	margin-bottom:0;
+}
+
+.product-single-aside ul.wcdlar_download_list li a.title {
+    color: #7b868a
+}
+
+ul.wcdlar_download_list ul.wcdlar_order_wrapper {
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    border-top: 1px dashed #eff2f3
+}
+
+ul.wcdlar_download_list ul.wcdlar_order_wrapper h5 {
+    font-size: 13px;
+    padding: 0 12px
+}
+
+ul.wcdlar_download_list ul.wcdlar_order_wrapper th {
+    font-size: 12px;
+    font-weight: 400
+}
+
+ul.wcdlar_download_list li .sub_items {
+    display: none
+}
+
+ul.wcdlar_download_list a.download-btns {
+    display: inline-block;
+    background: #2dbe60;
+    color: #fff;
+    width: fit-content;
+    padding: 10px 16px;
+    border-radius: 24px;
+    box-shadow: 0 2px 12px rgba(147, 203, 116, .8)
+}
+
+ul.wcdlar_download_list a.download-btns-product-page {
+    display: inline-block;
+    background: #17bd7b;
+    color: #fff;
+    padding: 5px 16px;
+    border-radius: 3px;
+    width: 94%;
+    text-align: center;
+    font-size: 13px
+}
+
+ul.wcdlar_download_list a.download-btns .fal {
+    font-size: 15px;
+    margin-left: 11px;
+    -webkit-transform: translateY(2px);
+    -moz-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    -o-transform: translateY(2px);
+    transform: translateY(2px)
+}
+
+ul.wcdlar_download_list img.ico-download {
+  margin-left: 15px;
+  max-width: 60px;
+}
+
+
+/*--------------------------------------------------------------
+## Lessons Elementory
+--------------------------------------------------------------*/
+
+
+.elementory-section .course-section .panel-group .course-panel-heading {
+    border-top: 1px solid #e9ecef;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 20px 15px;
+    cursor: pointer;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading.active,
+.elementory-section .course-section .panel-group .course-panel-heading:hover {
+    background-color: #f8f9fa
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading.active .panel-heading-left .course-lesson-icon i,
+.elementory-section .course-section .panel-group .course-panel-heading:hover .panel-heading-left .course-lesson-icon i {
+    color: #fea000;
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .title {
+  margin-bottom: 0px;
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .course-lesson-icon {
+    line-height: 1;
+    margin-left: 15px
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .course-lesson-icon i {
+    color: #d4d9dd;
+    font-size: 20px;
+    -webkit-transition: color .2s ease-out;
+    transition: color .2s ease-out
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .title h4 {
+    font-size: 16px;
+    margin: 0 0 8px
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .title>p {
+    font-size: 14px;
+    color: #adb5bd;
+    font-weight: 400;
+    margin: 0;
+    line-height: 1
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item {
+    background-color: #e9ecef;
+    padding: 2px 6px;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 2px;
+    margin-left: 6px;
+    line-height: 1.2;
+    text-transform: capitalize
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.video {
+    background-color: #65bded;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.quiz {
+    background-color: #bd83ef;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.lecture {
+    background-color: #68e8b7;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.exam {
+    background-color: #e89369;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.practice {
+    background-color: #eada68;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.attachments {
+    background-color: #4ece3d;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.sound {
+    background-color: #a76388;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item.free {
+    background-color: #8be669;
+    color: #fff
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-right {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .private-lesson {
+    margin-left: 6px;
+    padding-right: 0
+}
+
+.private-lesson .fa.green-lock {
+    color: #50C984;
+}
+
+@media (max-width:767.98px) {
+    .elementory-section .course-section .panel-group .course-panel-heading .private-lesson i {
+        margin-right: 0!important
+    }
+    .elementory-section .course-section .panel-group .course-panel-heading .private-lesson span {
+        display: none
+    }
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .preview-button {
+    background-color: #fea000;
+    color: #fff;
+    border-radius: 30px
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .download-button {
+    background-color: #50C984;
+    margin-right: 8px;
+    color: #fff;
+    height: 34px;
+    border-radius: 30px
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .download-button.gray {
+    background-color: #bac2c5 !important;
+    margin-right: 8px;
+    color: #fff;
+    border-radius: 30px
+}
+
+@media (max-width:767.98px) {
+    .elementory-section .course-section .panel-group .course-panel-heading .preview-button {
+        display: none
+    }
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .preview-button.for-mobile {
+    display: none
+}
+
+@media (max-width:767.98px) {
+    .elementory-section .course-section .panel-group .course-panel-heading .preview-button.for-mobile {
+        display: block
+    }
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .preview-button.for-mobile i {
+    margin-left: 0
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .download-button,
+.elementory-section .course-section .panel-group .course-panel-heading .preview-button,
+.elementory-section .course-section .panel-group .course-panel-heading .private-lesson {
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 7px 10px
+}
+
+.elementory-section .course-section .panel-group .course-panel-heading .preview-button i,
+.elementory-section .course-section .panel-group .course-panel-heading .private-lesson i {
+    margin-left: 5px
+}
+
+.elementory-section .course-section .panel-group .panel-content {
+    max-height: 0;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    -webkit-transition: max-height .2s ease-out;
+    transition: max-height .2s ease-out
+}
+
+.elementory-section .course-section .panel-group .panel-content .panel-content-inner {
+    padding: 15px 15px 20px 15px;
+    background: #fff;
+    font-size: 13px;
+    text-align: justify;
+    border: 1px solid #e9ecef
+}
+
+
+
+.elementory-section .course-section-title-elementory {
+    margin: 0;
+    padding: 5px 10px;
+    display: flex;
+}
+
+.elementory-section .course-section-title-elementory.cursor-pointer {
+    cursor: pointer
+}
+
+.elementory-section .course-section-title-elementory .far {
+    padding: 4px 0 4px 10px;
+    color: #7b868a
+}
+
+.elementory-section .course-section-title-elementory .fal {
+    position: absolute;
+    left: 40px;
+    top:34px;
+    font-size: 25px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    color: #bdbdbd;
+}
+
+.elementory-section .course-section-title-elementory img {
+  max-width: 58px !important;
+  margin-left: 15px;
+  display: inline-block;
+  max-height: 58px;
+}
+
+.elementory-section .course-section-title-elementory .gheadlinel {
+    display: inline-block;
+    margin-right: 7px;
+    color: #111;
+}
+.elementory-section .course-section-title-elementory .gheadlinel span {
+  font-size:18px;
+  font-weight: 600;
+}
+.elementory-section .course-section-title-elementory .gheadlinel p {
+  margin-bottom: 0;
+}
+
+.elementory-section .course-section.active .course-section-title-elementory .fal {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.elementory-section .course-section {
+	background: #f7f7f7;
+    padding: 10px 18px;
+    border: 1px solid #e9ecef;
+	border-radius: 3px;
+}
+
+@media (max-width: 991.98px) {
+  .elementory-section .course-section-title-elementory .gheadlinel span {
+    font-size: 14px;
+    font-weight: 600;
+}
+.elementory-section .course-section-title-elementory .gheadlinel {
+    float: none;
+    width: 100%;
+    padding-left: 11px;
+}
+.elementory-section .course-section-title-elementory .gheadlinel p {
+    font-size: 11px;
+}
+.elementory-section .course-section-title-elementory img {
+    max-width: 35px !important;
+    margin-left: 5px;
+}
+.elementory-section .course-section {
+    background: #f7f7f7;
+    padding: 10px 10px;
+    border: 1px solid #e9ecef;
+    border-radius: 3px;
+}
+
+}
+
+.panel-group.deactive {
+    display: none;
+}
+
+@media (max-width:767.98px) {
+.elementory-section .course-section-title-elementory .fa {
+    left: 14px;
+    top:30px;
+    font-size: 18px;
+  }
+.elementory-section .course-section-title-elementory {
+    padding: 2px 2px;
+}
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .title h4 {
+    font-size: 13px;
+}
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .title>p {
+    display: none;
+}
+.elementory-section .course-section .panel-group .course-panel-heading {
+    padding: 15px;
+}
+.elementory-section .course-section .panel-group .course-panel-heading .panel-heading-left .badge-item {
+    font-size: 11px;
+    font-weight: 400;
+}
+.elementory-section .course-section-title-elementory .fa {
+  left: -2px;
+  top: 34px;
+  font-size: 19px;
+}
+.elementory-section .course-section-title-elementory .gheadlinel {
+    padding-left: 11px;
+    line-height: 20px;
+}
+.elementory-section {
+  margin: 0 -15px;
+}
+}
+
+.video_popup_wrrapper {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+}
+.video_popup_overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: rgba(9, 9, 9, .7);
+}
+.video_popup_inner {
+    display: block;
+    z-index: 9999;
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+    width: 100%;
+    transform: translate(50%, 50%);
+    color: #fff;
+    text-align: center;
+}
+
+.xts-prod-design-summary .xts-product-content {
+    padding-bottom: 10px;
+}
+
+
+.product-intro__tick .col-xs-6 {
+    width: 50%;
+}
+.product-intro__tick {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-top: 22.73%;
+    margin-bottom: 20px;
+}
+.product-intro__tick>* {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    width: 100%;
+}
+.product-intro__tick>div {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    right: 0;
+    margin: 0 auto;
+}
+
+.product-intro__tick>div>div[class*=col-] {
+    vertical-align: middle;
+    margin-bottom: 0;
+    padding: 0;
+}
+.product-intro__tick-count {
+    position: relative;
+    text-align: center;
+}
+.product-intro__tick>svg {
+    opacity: .6;
+    fill: #fff;
+}
+.product-intro__tick [class*=col-] {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    font-size: 16px;
+    font-size: 1rem;
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+.product-intro__tick-count>div {
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.product-intro__tick-count var {
+    color: #fff;
+    font-size: 34px;
+    line-height: 3.125rem;
+    display: block;
+    text-align: center;
+}
+
+.product-intro__tick-price {
+    text-align: center;
+}
+.product-intro__tick-price var {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+
+}
+.product-intro__tick-price del {
+    opacity: .5;
+    margin-left: 13px;
+}
+
+.product-intro__tick-price span {
+  font-size: 28px;
+  display: block;
+  line-height: 30px;
+  color: #fff;
+  margin: 0 auto;
+}
+.product-intro__tick-price span.woocommerce-Price-currencySymbol {
+    font-size: 16px;
+}
+.svg--full {
+    width: 100%;
+    height: 100%;
+}
+.product-intro__tick-count>div>span:first-of-type {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 100%;
+    margin-left: 15px;
+    fill: #fff;
+}
+.product-intro__tick-count>div>span:last-of-type {
+    font-size: 14px;
+    font-size: .875rem;
+    display: block;
+    text-align: center;
+    line-height: 24px;
+    color: #fff;
+    margin-top: -9px;
+}
+.product-intro__tick-price ins, .product-intro__tick-price mark {
+    background: transparent !important;
+}
+var {
+    font-style: normal;
+}
+.product-intro__tick-price del span.amount {
+    color: inherit;
+    font-weight: 400;
+    font-size: 29px;
+}
+.product-intro__btns .view-lessons.button {
+    width: 100%;
+    height: 48px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    background: var(--iwp-secondary-color);
+    color: #fff;
+}
+.product-intro__btns .view-lessons.button i {
+  font-size: 25px;
+margin-left: 13px;
+}
+.product-intro__btns .single_add_to_cart_button {
+    width: 100%;
+    height: 48px;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 12px;
+}
+.xts-scheme-light .xts-countdown-timer .xts-countdown-timer-inner .xts-countdown-item {
+	color: #fff;
+	border: 2px solid #fff;
+}
+
+
+.help_download {
+    background: #f8f9fa;
+      border-radius: 8px;
+      padding: 10px 20px;
+      color: #000000;
+      line-height: 20pt;
+      margin-bottom: 20px;
+      border: 1px dashed #cfcfcf;
+  }
+  .help_download p {
+      margin-bottom: 0px;
+  }
+  .help_download ul li {
+      margin-bottom:0;
+      font-size:14px;
+  }
+  
+  .help_download ul {
+      margin: 0 20px 0px 0;
+  }
+  .box_download, .box_help {
+      overflow: hidden;
+      background: #ffffff;
+      box-shadow: 0 0 7px -2px rgba(0,0,0,.3);
+      margin-bottom: 0px;
+      border-radius: 8px;
+  
+  }
+  .box_download span, .box_help span {
+      background: var(--iwp-primary-color);
+      border-radius: 8px;
+      color: #fff;
+      font-size: 12pt;
+      padding: 10px 20px;
+      display: block;
+      cursor: pointer;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+  }
+  .box_download .box_content, .box_help .box_content {
+      display: none;
+  }
+  .box_download span .fa, .box_help span .fa {
+      padding-left: 5px;
+  }
+  .box_download .box_content, .box_help .box_content {
+      padding: 5px 15px;
+  }
+  .box_download a, .box_help a {
+      display: block;
+      border-bottom: 1px solid #dedede;
+      color: #2e2e2e;
+      margin: 5px;
+      padding: 4px 5px;
+      font-size: 15px;
+      font-weight: 400;
+  }
+  .box_download span:after, .box_help span:after {
+      content: "\f107";
+      float: left;
+      font: normal normal normal 14px/1 fontawesome_pro;
+      font-size: 18pt;
+      padding: 2px 0 0 0;
+  }
+  .box_download a:last-child, .box_help a:last-child {
+      border: 0;
+  }
+  .box_download a .far, .box_help a .far {
+      padding-left: 10pt;
+  }
+  
+  .button_download {
+      margin: 20px -9px 10px -9px;
+      font-size: 11pt;
+      line-height: 25pt;
+      overflow: hidden;
+  }
+  
+  .button_download .password {
+    width: calc(50% - 18px);
+    float: right;
+    background: #535b61;
+    border-radius: 5px;
+    text-align: center;
+    color: #fff;
+    margin: 0 9px;
+    border: 2px solid #535b61;
+      line-height: 38px;
+  }
+  
+  .button_download .link-not {
+      width: calc(50% - 18px);
+      float: left;
+      background: #fff;
+      border-radius: 5px;
+      text-align: center;
+      color: var(--iwp-primary-color);
+      margin: 0 9px;
+      cursor: pointer;
+      border: 2px solid var(--iwp-primary-color);
+  }
+  
+  .button_download .link-not:hover {
+      background: var(--iwp-primary-color);
+      color: #fff !important;
+  }
+  
+  .well {
+      min-height: 20px;
+      padding: 19px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+  }
+  .well {
+      background-color: #f7f6f6;
+      border: 1px solid #f5f5f5;
+  }
+  p.msg-box-download {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .collapse:not(.show) {
+      display: none;
+  }
+
+  .post-inner-download-box {
+    padding: 15px 0;
+  }
+  @media (max-width: 991.98px) {
+    .button_download .password {
+        width: calc(100% - 20px);
+        margin-bottom: 10px;
+    }
+    .button_download .link-not {
+        width: calc(100% - 20px);
+        float: none;
+    }
+  }
+
+
+  .xts-sidebar .xts-widget-collapse:after {
+    margin-right: 7px;
+    font-size: 12px;
+    content: "\e921";
+    font-family: font-icon;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	position: absolute;
+	left: 30px;
+	top: 26px;
+	    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+.xts-sidebar .xts-widget-collapse.xts-opened:after {
+    transform: rotate(-180deg)
+}
+
+
+.video_popup_inner video {
+    margin: auto auto;
+    display: block;
+}
